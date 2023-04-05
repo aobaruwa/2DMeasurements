@@ -1,2 +1,2 @@
 # SurfaceMeasurements
-Towards taking surface measurements around 3D body scans 
+Taking surface measurements around 3D body scans 
