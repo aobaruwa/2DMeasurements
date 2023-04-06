@@ -1,0 +1,26 @@
+package:
+  name: landmark
+  version: 1
+
+source:
+  path: ./
+
+requirements:
+  build:
+    - python
+    - setuptools
+    - tensorflow-gpu
+    - matplotlib
+    - plyfile
+  run:
+    - python
+
+test:
+  imports:
+    - landmark
+
+about:
+  home: https://github.com/jsearcy1/landmark
+  license: NONE
+  license_family: NONE
+  summary: Composable command line interface toolkit

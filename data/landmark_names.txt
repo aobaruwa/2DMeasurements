@@ -1,0 +1,74 @@
+10th Rib Midspine
+Butt Block
+Cervicale
+Crotch
+Lt. 10th Rib
+Lt. ASIS
+Lt. Acromion
+Lt. Axilla, Ant
+Lt. Axilla, Post.
+Lt. Calcaneous, Post.
+Lt. Clavicale
+Lt. Dactylion
+Lt. Digit II
+Lt. Femoral Lateral Epicn
+Lt. Femoral Medial Epicn
+Lt. Gonion
+Lt. Humeral Lateral Epicn
+Lt. Humeral Medial Epicn
+Lt. Iliocristale
+Lt. Infraorbitale
+Lt. Knee Crease
+Lt. Lateral Malleolus
+Lt. Medial Malleolus
+Lt. Metacarpal-Phal. II
+Lt. Metacarpal-Phal. V
+Lt. Metatarsal-Phal. I
+Lt. Metatarsal-Phal. V
+Lt. Olecranon
+Lt. PSIS
+Lt. Radial Styloid
+Lt. Radiale
+Lt. Sphyrion
+Lt. Thelion/Bustpoint
+Lt. Tragion
+Lt. Trochanterion
+Lt. Ulnar Styloid
+Nuchale
+Rt. 10th Rib
+Rt. ASIS
+Rt. Acromion
+Rt. Axilla, Ant
+Rt. Axilla, Post.
+Rt. Calcaneous, Post.
+Rt. Clavicale
+Rt. Dactylion
+Rt. Digit II
+Rt. Femoral Lateral Epicn
+Rt. Femoral Medial Epicn
+Rt. Gonion
+Rt. Humeral Lateral Epicn
+Rt. Humeral Medial Epicn
+Rt. Iliocristale
+Rt. Infraorbitale
+Rt. Knee Crease
+Rt. Lateral Malleolus
+Rt. Medial Malleolus
+Rt. Metacarpal Phal. II
+Rt. Metacarpal-Phal. V
+Rt. Metatarsal-Phal. I
+Rt. Metatarsal-Phal. V
+Rt. Olecranon
+Rt. PSIS
+Rt. Radial Styloid
+Rt. Radiale
+Rt. Sphyrion
+Rt. Thelion/Bustpoint
+Rt. Tragion
+Rt. Trochanterion
+Rt. Ulnar Styloid
+Sellion
+Substernale
+Supramenton
+Suprasternale
+Waist, Preferred, Post.

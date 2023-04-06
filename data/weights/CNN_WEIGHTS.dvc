@@ -1,0 +1,5 @@
+outs:
+- md5: 802448ea9858dac2ddfef9bb5f982ff0.dir
+  size: 31938360
+  nfiles: 74
+  path: CNN_WEIGHTS
